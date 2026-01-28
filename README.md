@@ -106,7 +106,7 @@ Live Site
 🔗https://simmyy00.github.io/escape-room-website/
 Repository
 
-🔗 
+🔗 https://github.com/simmyy00/escape-room-website/tree/main
 --- Testing
 
 All navigation links were tested
