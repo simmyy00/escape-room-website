@@ -103,10 +103,10 @@ Save and wait for link to generate
 
 Live Site
 
-🔗
+🔗https://simmyy00.github.io/escape-room-website/
 Repository
 
-🔗 A
+🔗 
 --- Testing
 
 All navigation links were tested
